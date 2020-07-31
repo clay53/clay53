@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**clay53/clay53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning Spanish 1 in 2.5 weeks & co-hosting a tournament. I guess Open Source Fiesta for Hack Club too?
