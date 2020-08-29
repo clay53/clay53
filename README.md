@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning Spanish 1 in 2.5 weeks & co-hosting a tournament. I guess Open Source Fiesta for Hack Club too?
+- 🔭 I’m currently working on TSA Video Game Design, *secret project*, and Epic Game Showdown (osu! tourney) website
 - 🌱 I’m currently learning websites with Rust.
 - 👯 I’m looking to collaborate on anything that you'll give me money for.
 - 🤔 I’m looking for help with you doing things for me thx.
