@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on TSA Video Game Design, *secret project*, and Epic Game Showdown (osu! tourney) website
-- 🌱 I’m currently learning websites with Rust.
+- 🔭 I’m currently working on resume, *secret project 2x*
+- 🌱 I’m currently learning Qt/QML.
 - 👯 I’m looking to collaborate on anything that you'll give me money for.
 - 🤔 I’m looking for help with you doing things for me thx.
 - 💬 Ask me about anything idk.
